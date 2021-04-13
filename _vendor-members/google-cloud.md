@@ -32,12 +32,12 @@ _Note: this is a vendor page template draft and does not include actual vendor d
 ## Missing FinOps Framework Functions
 - [Shared Cost Management]
 
-# Products Overview:
+## Products Overview
 - Feature pages
 - Video walkthrough
 - Best practice links
 
-# State of FinOps Data
+## State of FinOps Data
 - Percentage of usage in State of FinOps survey: 19%
 - Primary tool in State of FinOps survey: 8%
 
@@ -46,8 +46,6 @@ _Note: this is a vendor page template draft and does not include actual vendor d
 ## TAC, SIG & WG Contribution
 - Kubernetes 
 - Framework
-
-## Contributions to Framework: X
 
 # People
 
