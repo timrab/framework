@@ -14,6 +14,8 @@ description:
 
 ---
 
+_Note: this is a vendor page template draft and does not include actual vendor data or scoring!_
+
 # Google Cloud
 
 ## FinOps Score: 62%
