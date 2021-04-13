@@ -14,7 +14,7 @@ description:
 
 ---
 
-_Note: this is a vendor page template draft and does not include actual vendor data or scoring!_
+_Note: WIP: This is a work in progress. It is a vendor page template draft and does not include actual vendor data or scoring! Open for feedback from the TAC / General Community on the format!_
 
 # Google Cloud
 
