@@ -14,38 +14,52 @@ description:
 
 ---
 
-FinOps Framework Alignment:
-- 
+# Google Cloud
 
-# Contributions to Framework: X
-- Hierarchy etc
+## FinOps Score: 62%
 
-# Number of FinOps Certified Practitioners: X
-- Person A
-- Person B
-- 
-
-FinOps Professional Services Lead:
-- Kinjal and Tan Minh
-
-# TAC, SIG & WG Involvement
-- 
- 
-# Product and Engineering Leaders:
-- Amitai
-- Abuna
-
-# FinOps Products Overview:
-Video walkthrough: 
-
-# Publicly referenceable customers
-- Framework stories
-- Percentage of usage in State of FinOps survey:
-- Primary tool in State of FinOps survey:
-
-# Status:
+## FinOps Certification Status:
 - Not FinOps certified
-- FinOps Certified Basic (50%-75%)
+- **FinOps Certified Basic (50%-75%)**
 - FinOps Certified Advanced (75%+)
 
+## Support FinOps Framework Functions
+- [Resource Metadata](https://cloud.google.com/compute/docs/labeling-resources)
+- [Resource Hierarchy](https://cloud.google.com/resource-manager/docs/creating-managing-projects)
+
+## Missing FinOps Framework Functions
+- [Shared Cost Management]
+
+# Products Overview:
+- Feature pages
+- Video walkthrough
+- Best practice links
+
+# State of FinOps Data
+- Percentage of usage in State of FinOps survey: 19%
+- Primary tool in State of FinOps survey: 8%
+
+# Open Source Contribution
+
+## TAC, SIG & WG Contribution
+- Kubernetes 
+- Framework
+
+## Contributions to Framework: X
+
+# People
+
+## Number of FinOps Certified Practitioners: 3
+- Jane Doe
+- Joe Flow
+- Xander Valentine
+
+## FinOps Professional Services Lead:
+- Kinjal
+- Tan Minh
+- Sam
+ 
+## Product and Engineering Leaders:
+- Amitai
+- Abuna
 
