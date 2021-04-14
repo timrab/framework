@@ -7,6 +7,8 @@ tag: tagging-labeling
 
 # Tagging & Labeling (Resource Level Meta Data)
 
+### Supported Clouds: [AWS](#vendor-page) / GCP / Azure
+
 ## Introduction
 
 Cloud service providers may call them different things, but fundamentally tags and labels both provide functionality to define metadata in the form of key/value pairs. These tags are then associated with the resources in a cloud account. The key is like the column heading on a spreadsheet, and a value is a row entry for that column. 
@@ -72,10 +74,11 @@ These links are provided as potentially relevant industry resources. The FinOps 
 
 ### Relevant FinOps Certified Platforms
 
-- [Cloudability Business Mappings](https://www.cloudability.com/product/features/business-mapping/)
-- [Cloudhealth Perspectives](https://www.cloudhealthtech.com/blog/understanding-cloudhealth-perspectives)
-- [Densify Grouping Billing Data](https://www.densify.com/docs/Content/Densify_Com/Grouping_and_Filtering_Your_Billing_Data.htm_
-- [PyraCloud Tagging](https://help.pyracloud.com/knowledge-base/managing-tags-and-resources/)
+- Google Cloud
+- Apptio
+- VMware
+- Densify
+- etc
 
 ### Relevant FinOps Certified Service Providers
 
