@@ -20,13 +20,21 @@ _Note: WIP: This is a work in progress. It is a vendor page template draft and d
 
 ## FinOps Score: 62%
 
+## Description
+
+Lorem impsum limited to 500 words.
+
+## Linux Foundation Member Status
+- F2: Y/N
+- LF: Y/N
+
 ## FinOps Certification Status:
 - Not FinOps certified
 - **FinOps Certified Basic (50%-75%)**
 - FinOps Certified Advanced (75%+)
 
 ## Support FinOps Framework Functions
-- [Resource Metadata](https://cloud.google.com/compute/docs/labeling-resources)
+- [Resource Metadata](https://cloud.google.com/compute/docs/labeling-resources) Add logos to functions?
 - [Resource Hierarchy](https://cloud.google.com/resource-manager/docs/creating-managing-projects)
 
 ## Missing FinOps Framework Functions
@@ -63,3 +71,7 @@ _Note: WIP: This is a work in progress. It is a vendor page template draft and d
 - Amitai
 - Abuna
 
+## Slack 
+
+- [#Googlecloud-gcp](#)
+- [#CUDS-gcp](#)
