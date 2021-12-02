@@ -1,13 +1,28 @@
 ---
 
-layout: collection
-title: Anomaly Detection
-tags: 
+layout: story
+
+title: Anomaly Detection at Scale
+description:
+story-title: Anomaly Detection at Scale
+story-date: 2021-06-01
+author:
+company:
+company-size:
+industry: Life Sciences
+cloud-provider:
+- AWS
+tooling-services:
+framework-persona:
+framework-maturity: Run
+framework-capabilities:
+framework-projects:
+
+tags:
 - tagging-labeling
 - anomaly-detection
-persona:
-stage:
-company:
+
+order: 1
 
 ---
 

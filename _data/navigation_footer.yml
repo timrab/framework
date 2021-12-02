@@ -3,7 +3,7 @@
   - name: FinOps Certified Practitioner
     url: /training-certification/finops-certified-practitioner/
   - name: Vendor Member Certification
-    url: /training-certification/vendor-certification/
+    url: /members/vendor-certification/
 
 - name: Resources
   children:
@@ -20,6 +20,8 @@
   children:
   - name: About
     url: /about/
+  - name: Media Coverage & Resources
+    url: /about/media/
   - name: Technical Charter
     url: https://github.com/finopsfoundation/tac/blob/master/charter.md
   - name: Code of Conduct

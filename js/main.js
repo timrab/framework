@@ -37,7 +37,7 @@ function doScrolling(element, duration) {
 }
 
 if(document.getElementById('js-training-1')) {
-  document.getElementById('js-training-1').addEventListener('click', doScrolling.bind(null, '#focp-certification-exam--300', 1000));
+  document.getElementById('js-training-1').addEventListener('click', doScrolling.bind(null, '#finops-certified-practitioner-certification-exam--300', 1000));
 }
 
 if(document.getElementById('js-training-2')) {
@@ -164,3 +164,16 @@ $('*[data-ga-category]').each(function(){
     }
   });
 });
+
+// Cards filter on waste reduction
+if(document.getElementById('js-waste')) {
+  var mixer = mixitup('.js-waste', {
+    "animation": {
+        "duration": 250,
+        "nudge": true,
+        "reverseOut": false,
+        "effects": "fade translateZ(-100px)"
+    }
+  });
+};
+

@@ -16,7 +16,11 @@ FinOps is shorthand for "Cloud Financial Operations" or "Cloud Financial Managem
 
 At its core, FinOps is a cultural practice. It’s the way for teams to manage their cloud costs, where everyone takes ownership of their cloud usage supported by a central best-practices group. Cross-functional teams in IT, Finance, Product, etc work together to enable faster product delivery, while at the same time gaining more financial control and predictability.
 
-![image](/img/resources/finops-poster.png)
+
+[![FinOps Poster](/img/resources/finops-poster.png)](/img//resources/FinOps Poster_011021.pdf){:target="_blank"}
+
+
+[Download the FinOps Poster](/img//resources/FinOps Poster_011021.pdf){:target="_blank"} &nbsp;&nbsp;&nbsp; [View introduction to FinOps Presentation](https://docs.google.com/presentation/d/1gt9ev4OU79-N0tkkdx78rrZM0jJPuxQqlL6pCImL4ww/edit?usp=sharing){:target="_blank"}
 
 No longer is a siloed procurement team identifying costs and signing off on them. Instead, a cross-functional FinOps team adopts a definitive series of procurement best practices, enabling them to pull together technology, business, and finance in order to optimize cloud vendor management, rate, and discounting. With FinOps, each operational team (workload, service, product owner) can access the near-real-time data they need to influence their spend and help them make intelligent decisions that ultimately result in efficient cloud costs balanced against the speed/performance and quality/availability of services.
 
@@ -54,6 +58,9 @@ Distributed decision making coupled with the move to variable spending in cloud 
 
 ## Resources to Learn More
 
+- [Download the FinOps Poster](/img//resources/FinOps Poster_011021.pdf){:target="_blank"}
+- [View introduction to FinOps Presentation](https://docs.google.com/presentation/d/1gt9ev4OU79-N0tkkdx78rrZM0jJPuxQqlL6pCImL4ww/edit?usp=sharing){:target="_blank"}
 - [O’Reilly FinOps Book](/resources/finops-book)
 - [Introduction to FinOps Course on EdX](https://training.linuxfoundation.org/training/introduction-to-finops-lfs175/)
 - [FinOps Certified Practitioner Course](/certification/finops-certified-practitioner/)
+

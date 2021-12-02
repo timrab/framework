@@ -9,7 +9,7 @@ description: The FinOps practitioner certification allows individuals in a large
 
 # FinOps Certified Practitioner
 
-The FinOps Certified Practitioner (FOCP) course allows individuals in a large variety of cloud, finance and technology roles to validate their FinOps knowledge and enhance their professional credibility. The certification covers FinOps fundamentals and an overview of key concepts in each of the three sections of the FinOps lifecycle: Inform, Optimize and Operate.
+The FinOps Certified Practitioner course allows individuals in a large variety of cloud, finance and technology roles to validate their FinOps knowledge and enhance their professional credibility. The certification covers FinOps fundamentals and an overview of key concepts in each of the three sections of the FinOps lifecycle: Inform, Optimize and Operate.
 
 <div class="mt-12">
   <div class="grid grid-cols-1 gap-8 sm:grid-cols-2 lg:grid-cols-3">
@@ -26,7 +26,7 @@ The FinOps Certified Practitioner (FOCP) course allows individuals in a large va
           </div>
           <h3 class="mt-8 text-lg font-medium text-gray-900 tracking-tight">Practitioner Certification Exam</h3>
           <p class="mt-5 text-base text-gray-600">
-            If you are ready, take the FOCP exam and get your certification. 
+            If you are ready, take the FinOps Certified Practitioner exam and get your certification. 
           </p>
           <a class="btn" href="javascript:void(0)" id="js-training-1">Learn more</a>
         </div>
@@ -90,11 +90,11 @@ You should consider this course if you are any of the following:
 
 
 ## Training and Certification Options 
-### FOCP Certification Exam – $300
+### FinOps Certified Practitioner Certification Exam – $300
 An exam can be purchased to attempt the certification through the Linux Foundation. Note: the exam does not include any study materials or guides. 
 
 - Exam format: 60 minutes. The exam can be taken available online at your convenience
-- Based on the FOCP curriculum domain and competencies
+- Based on the FinOps Certified Practitioner curriculum domain and competencies
 - Upon successful exam completion (score of 70%), a verified FinOps Certified Practitioner badge and certificate of completion for your LinkedIn issued by the Linux Foundation
 - Exam-only path is only recommended for those with considerable real world FinOps expertise who also have deep knowledge of the FinOps lifecycle as laid out in the Cloud FinOps book by O’Reilly.
 - No study or prep materials come with the exam purchase
@@ -104,6 +104,9 @@ An exam can be purchased to attempt the certification through the Linux Foundati
 ---
 
 ### Self-Paced Online Course  – $499
+<!-- <div class="bg-gray-200 p-4 rounded-md my-8 text-medium"> 
+Enjoy <b>20% off</b> with the code: <b>OctoberF2</b> until 25th October
+</div> -->
 - Instructor-led video recordings of the complete course (approximately 6 hours of video)
 - 12 Months of Access to Online Course materials
 - Digital access to instructor led training course slides
@@ -112,7 +115,7 @@ An exam can be purchased to attempt the certification through the Linux Foundati
 - Student Handbook PDF with learning outcomes to prepare for the exam
 - Includes an exam code to take the FinOps Certified Practitioner exam at the Linux Foundation ($300 value)
 
-<a class="btn" href="https://www.eventbrite.com/e/finops-certified-practitioner-self-paced-course-tickets-164850966679">Purchase Self-Paced</a>
+<a class="btn" href="https://www.eventbrite.com/e/finops-certified-practitioner-self-paced-course-tickets-215378361477">Purchase Self-Paced</a>
 
 ---
 

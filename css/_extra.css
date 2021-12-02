@@ -1,11 +1,3 @@
-
-.prose hr {
-  display: block;
-  border: 0;
-  height: 10px;
-  background-image: url('../img/community/ruler-2.svg');
-}
-
 .right-img {
   right: -175px;
 }
@@ -30,6 +22,29 @@ ul.plain-list > li, ul[role=menu] > li {
 ul.plain-list > li::before, ul[role=menu] > li::before {
   content: none;
 }
+
+hr.basic {
+  display: block;
+  border: 0;
+  height: 5px;
+  margin-top: 3em;
+  margin-bottom: 3em;
+  background-image:  none;
+}
+
+.adopting-table td {
+  vertical-align: middle;
+}
+
+.adopting-table tr:nth-child(even) {
+  background: #edf2f7
+}
+
+.adopting-table thead tr th {
+  line-height: 1.3;
+}
+
+
 
 /*.nav-dropdown-link:after {
   border-top-width: 2px;
@@ -153,4 +168,12 @@ ul.plain-list > li::before, ul[role=menu] > li::before {
   top: 18px;
   width: 0%;
   left: 50%;
+}
+
+/*SoF*/
+
+.sof-banner {
+  background: url(../img/temp/landing-page-banner.png) no-repeat;
+  background-position: center;
+  background-size: cover;
 }

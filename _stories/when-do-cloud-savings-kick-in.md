@@ -1,18 +1,33 @@
 ---
 
-layout: collection
+layout: story
+
 title: When Do Cloud Savings Start to Kick in?
-tags: 
+description: In this post I’ll share why cloud can both save, and not save, depending on your stage of cost optimization maturity. For illustration purposes, the stages of maturity in this post are split into crawl, walk, and run.
+story-title: When Do Cloud Savings Start to Kick in?
+story-date: 2021-06-01
+author: Peter Shi
+company: Goldiserv
+company-size:
+industry: Internet
+cloud-provider:
+- AWS
+- Azure
+tooling-services:
+framework-persona: FinOps Practitioner
+framework-maturity: Run
+framework-capabilities:
+- capability_rightsizing
+framework-projects:
+order: 
+
+tags:
 - commitment-discounts
 - usage-optimization
 - rate-optimization
 - organizational-alignment
-persona:
-stage:
-company:
 
 ---
-*by [Peter Shi](https://www.linkedin.com/in/petershicloud/), Founder of Goldiserv*
 
 When asking a room of IT and Finance professionals who use the cloud: “Is cloud cheaper than on-prem self-managed IT?” Typically, half the room responds “yes, cloud is cheaper” and the other half “no, cloud is more expensive”.
 
@@ -22,8 +37,8 @@ In this post I’ll share why cloud can both save, and not save, depending on yo
 
 For each stage detailed below, I’ll cover:
 
-- how organisations typically improve cloud spend efficiency and unit costs, 
-- typical savings realised, and 
+- how organisations typically improve cloud spend efficiency and unit costs,
+- typical savings realised, and
 - pros and cons of each stage
 
 ---
@@ -40,7 +55,7 @@ This pre-crawl stage can conclude in many ways. One of these ways is when someon
 ## “Crawl stage” cost optimization
 The crawl stage of cost optimization is characterized by reactive, non-invasive actions that require no cultural change. Typical activities include seeking discounts through enterprise agreements or programs, and using commitment for discount tools such as Reservations and Savings Plans.
 
-These activities typically trim 20% off of the cost off of the lift and shift scenario. 
+These activities typically trim 20% off of the cost off of the lift and shift scenario.
 
 Savings are typically limited to 20% because most organisations find it difficult to make 3-year commitments required to unlock greater discounts.
 
@@ -92,7 +107,7 @@ The run-stage of cost optimization is characterized by proactive mechanisms that
 
 As organisations mature into the run-stage; training or onboarding, tooling, decision making, and operational process, roles, and culture may all evolve to be cognizant of cost and value.
 
-In addition to walk-stage activities, run-stage cost optimization levers may include architectural decisions that balance cost, versus other business/customer requirements, installation of cost anomaly detection systems, use of serverless and spot, application of IT infrastructure automation, and a shift towards open-source and microservices. 
+In addition to walk-stage activities, run-stage cost optimization levers may include architectural decisions that balance cost, versus other business/customer requirements, installation of cost anomaly detection systems, use of serverless and spot, application of IT infrastructure automation, and a shift towards open-source and microservices.
 
 These cost optimization levers can trim a further 60%+ off of the cost off of the walk-stage cost. An example of this comes from a customer in the banking industry who re-architectured an application to leverage serverless. The monthly run cost of the service fell from over $1M (per month) down to $150k, and although it cost over $2M to complete the work, the exercise delivered significant ROI.
 
@@ -115,11 +130,11 @@ Pros and cons of the run stage include:
 If you’re looking to achieve run-stage cost optimization results (especially in larger organisations) consider the following questions:
 
 - Do I have founder and/or C-suite support to overcome technological and political barriers to drive FinOps change?
-- Is cost saving and margin improvement considered to be business critical this year? 
+- Is cost saving and margin improvement considered to be business critical this year?
 - Are the teams responsible for the spend well-trained in cloud technology?
 - Are we prepared to implement chargeback to the business units that incur cloud costs?
- 
-If the answer to these questions is largely “yes”, then pursuing run-stage cost optimization may make sense for you and your organisation. 
+
+If the answer to these questions is largely “yes”, then pursuing run-stage cost optimization may make sense for you and your organisation.
 
 If however the answer to these questions is largely “no”, from my experience your organisation may be better off staying in the crawl/walk stage of cost optimization as better tooling, training, or FinOps headcount allocation may not deliver the expected ROI.
 

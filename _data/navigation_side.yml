@@ -1,8 +1,11 @@
 - name: Introduction
   children:
   - name: What is FinOps
-  - name: How to Contribute
-  - name: How to Use
+  - name: Adopting FinOps
+    url: /projects/adopting-finops/
+  - name: FinOps Foundation
+    url: /about/
+
 - name: FinOps Framework
   children:
   - name: Principles
@@ -11,6 +14,8 @@
     url: /framework/personas/
   - name: Phases
     url: /framework/phases/
+  - name: Maturity
+    url: /framework/maturity-model/
   - name: Domains
     url: /framework/domains/
   - name: Capabilities
@@ -24,15 +29,24 @@
   - name: Identifying Shared Costs
   - name: Calculating Container Costs
   - name: Accurate Cloud Forecasts
+  - name: Multi-Cloud Tools and Terminology
+  - name: Reducing Waste
 - name: Resources
   children:
-  - name: Monthly Update 
+  - name: How to Contribute
+    url: /introduction/how-to-contribute/
+  - name: How to Use
+    url: /introduction/how-to-use/
+  - name: Monthly Update
   - name: Training & Certification
     url: /training-certification/
   - name: Events
   - name: FinOps Book
+  - name: Member Stories
+    url: /resources/stories/
+  - name: FinOps Terminology
+    url: /resources/Terminology
   - name: Vendor Members
     url: /members/
-  - name: Blogs and Articles
-    url: /resources/finops-links/
+
 

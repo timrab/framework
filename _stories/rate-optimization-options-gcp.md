@@ -1,16 +1,28 @@
 ---
 
-layout: collection
+layout: story
+
 title: Rate Optimization Options from Google Cloud Platform
-tags: 
+description: Many rate optimization exercises can be quick wins, while others are transformative, long-term initiatives. As for CUDs, SUDs, and BigQuery reservations, understanding and better utilizing them are quick wins any GCP user can utilize.
+story-title: Rate Optimization Options from Google Cloud Platform
+story-date: 2021-06-01
+author: Pathik Sharma
+company: Google Cloud Platform
+company-size:
+industry: Internet and Cloud Computing
+cloud-provider:
+- GCP
+tooling-services:
+framework-persona: Business/Product Owner
+framework-maturity: Run
+framework-capabilities:
+- capability_commitment-discounts
+framework-projects:
+order:
+tags:
 - rate-optimization
-- google-cloud-platform
-persona:
-stage:
-company:
 
 ---
-*by Pathik Sharma, Senior Technical Account Manager, Google Cloud Platform*
 
 > “The better optics you have, the more equity you can pinpoint.”
 

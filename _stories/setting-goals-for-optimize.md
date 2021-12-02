@@ -1,13 +1,26 @@
 ---
 
-layout: collection
-title: Setting goals for optimize
-tags: 
+layout: story
+
+title: Setting Goals for Optimize
+description:
+story-title: Setting Goals for Optimize
+story-date: 2021-06-01
+author:
+company:
+company-size:
+industry:
+cloud-provider:
+tooling-services:
+framework-persona:
+framework-maturity:
+framework-capabilities:
+framework-projects:
+order: 2
+
+tags:
 - tagging-labeling
 - budget-alerting
-persona:
-stage:
-company:
 
 ---
 
