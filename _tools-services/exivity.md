@@ -90,11 +90,11 @@ recent-finops-activity:
 
 # Detail related/dedicated slack channels in the FinOps Foundation Slack 
 slack-channels:
-- title:
-  url:
+- title: #exivity
+  url: https://finopsfoundation.slack.com/archives/C02Q5U9LCLA
 
 # The total number of FinOps Certified Practitioners at the vendor
-number-of-focp: 
+number-of-focp: 3
 
 # List the key contribution areas in the FinOps Foundation, examples listed
 contribution-areas:
